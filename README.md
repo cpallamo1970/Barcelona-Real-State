@@ -18,7 +18,7 @@ The contents include the following:
 
   - data.csv - A test dataset to use if you want to skip the data cleaning steps.
 
-## Jypiter Notebooks
+## Jypyter Notebooks
 
   --.ipynb - The Jupyter Notebook mapping code for the interactive Barcelona Real Estate Map.
 
@@ -27,4 +27,4 @@ The contents include the following:
 
   __.py - Final executable python code 
   
-  requirements.txt
+
