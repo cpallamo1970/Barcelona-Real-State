@@ -23,11 +23,9 @@ The contents include the following:
 
 ## Jypyter Notebooks
 
-  --.ipynb - The Jupyter Notebook mapping code for the interactive Barcelona Real Estate Map.
+  Barcelona Data Analysis.ipynb - The Jupyter Notebook mapping code for the interactive Barcelona Real Estate Map.
 
 
-## IBM CLOUD Files
 
-  __.py - Final executable python code 
   
 
